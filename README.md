@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning JS - HTML - CSS - SQL <br>🎯 Goals: Have my first job in the area and work from home (LOL)<br>🎲 Fun fact: I play 🎸 and fight 🥋</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning JS - HTML - CSS - SQL <br>🎯 Goals: Have my first job in the area and work from home <br>🎲 Fun fact: I play 🎸 and fight 🥋</p>
 
 ###
 
